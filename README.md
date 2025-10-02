@@ -1,10 +1,6 @@
-<img align="center" width="500" src="./image/top_light.GIF" alt="TopImage" />
 
-  <p align="left">
-    <a href="https://twitter.com/@iwayu0125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iwayu0125" height="30" width="40" /></a>
-  </p>
 <h2>いわゆー@RUNTEQ70期A</h2>
-<a href="https://twitter.com/@iwayu0125" target="blank">@iwayu0125</a>
+<a href="https://twitter.com/@iwayu0125" target="blank">Twitter:@iwayu0125</a>
 
 <div>
   <p>
