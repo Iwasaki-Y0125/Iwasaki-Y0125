@@ -3,7 +3,7 @@
   <p align="left">
     <a href="https://twitter.com/@iwayu0125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iwayu0125" height="30" width="40" /></a>
   </p>
-<h2>いわゆー@RUNTEQ70期A</h2>
+<h2>いわさき　ゆか　いわゆー@RUNTEQ70期A</h2>
 <p>@iwayu0125</p>
 
 <div>
