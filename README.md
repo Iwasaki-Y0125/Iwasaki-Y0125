@@ -14,8 +14,8 @@
 </div>
 
 <div style="display: flex;">
-  <img alt="github stats" height="220px" src="https://github-readme-stats.vercel.app/api?username=Iwasaki-Y0125&show_icons=true&theme=tokyonight" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iwasaki-Y0125&https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="220px" src="https://github-readme-stats-blond-two-12.vercel.app/api?username=Iwasaki-Y0125&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats-blond-two-12.vercel.app/api/top-langs/?username=Iwasaki-Y0125&https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight" />
 </div>
 
 <h3 align="left">Learning Languages & Tools:</h3>
