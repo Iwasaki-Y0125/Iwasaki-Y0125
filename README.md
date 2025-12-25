@@ -8,8 +8,7 @@
   <p>
   RUNTEQ2025.6.6入学｜プログラミング<br><br>
   ｜HP → <a href="https://iwasaki-y0125.github.io/Portfolio/" target="blank">Iwasaki Yuka no Portfolio</a><br>
-  ｜自己紹介/note → <a href="https://note.com/iwayu0125/n/nc843eb2fd511" target="blank">自己紹介</a><br>
-  ｜RUNTEQ/ソーシャルポートフォリオ → <a href="https://school.runteq.jp/social_portfolios/iwayu" target="blank">マイポートフォリオ</a><br>
+  ｜応用情報技術者合格記 /note → <a href="[https://note.com/iwayu0125/n/nc843eb2fd511](https://note.com/iwayu0125/n/n8affeb665a77?sub_rt=share_sb)" target="blank">応用情報技術者合格記 /note</a><br>
   </p>
 </div>
 
