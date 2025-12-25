@@ -1,9 +1,5 @@
 
 <h2>いわゆー@RUNTEQ70期A</h2>
-<p>Twitter:
-<a href="https://twitter.com/@iwayu0125" target="blank">@iwayu0125</a>
-</p>
-
 <div>
   <p>
   RUNTEQ2025.6.6入学｜プログラミング<br><br>
