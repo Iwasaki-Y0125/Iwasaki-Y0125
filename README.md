@@ -1,17 +1,7 @@
+# Hi, I'm Iwasaki Yuka
 
-<h2>いわゆー@RUNTEQ70期A</h2>
-<div>
-  <p>
-  RUNTEQ2025.6.6入学｜プログラミング<br><br>
-  ｜HP → <a href="https://iwasaki-y0125.github.io/Portfolio/" target="blank">Iwasaki Yuka no Portfolio</a><br>
-  ｜応用情報技術者合格記 /note → <a href="https://note.com/iwayu0125/n/n8affeb665a77?sub_rt=share_sb" target="blank">応用情報技術者合格記 /note</a><br>
-  </p>
-</div>
-
-<div style="display: flex;">
-  <img alt="github stats" height="220px" src="https://github-readme-stats-blond-two-12.vercel.app/api?username=Iwasaki-Y0125&show_icons=true&theme=tokyonight" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats-blond-two-12.vercel.app/api/top-langs/?username=Iwasaki-Y0125&https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight" />
-</div>
+Ruby on Railsを中心にWebアプリ開発を学んでいます。
+個人開発を通して設計・DB・テストを学習中です。
 
 ## Learning Languages & Tools
 
