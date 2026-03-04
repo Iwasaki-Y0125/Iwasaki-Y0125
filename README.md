@@ -1,6 +1,6 @@
 # Hi, I'm Iwasaki Yuka
 
-Ruby on Railsを中心にWebアプリ開発を学んでいます。
+Ruby on Railsを中心にWebアプリ開発を学んでいます。  
 個人開発を通して設計・DB・テストを学習中です。
 
 ## Learning Languages & Tools
