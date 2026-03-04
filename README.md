@@ -1,9 +1,15 @@
-# Hi, I'm Iwasaki Yuka
+## Hello🐙World！
 
-Ruby on Railsを中心にWebアプリ開発を学んでいます。  
-個人開発を通して設計・DB・テストを学習中です。
+`Ruby on Rails`を中心にWebアプリ開発に取り組んでいます。  
+特にフロントエンド実装とUI/UXに関心があり、  
+ユーザーが直感的に使える画面設計や体験づくりを意識して個人開発を進めています。
 
-## Learning Languages & Tools
+## Achievements & Qualifications
+
+- RUNTEQ 新人賞 受賞 > [torisetsu_me](https://github.com/Iwasaki-Y0125/torisetsu_me)
+- 応用情報技術者試験 合格
+
+### Learning Languages & Tools
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org)
