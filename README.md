@@ -6,7 +6,7 @@
 
 ### Achievements & Qualifications
 
-- Buttle of RUNTEQ 新人賞 受賞 > [torisetsu_me](https://github.com/Iwasaki-Y0125/torisetsu_me)
+- Battle of RUNTEQ 新人賞 受賞 > [torisetsu_me](https://github.com/Iwasaki-Y0125/torisetsu_me)
 - 応用情報技術者試験 合格
 
 ### Learning Languages & Tools
