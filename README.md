@@ -49,12 +49,7 @@
   </tr>
 </table>
 
-
-
-
-
-
-### Learning Languages & Tools
+### 🛠️Learning Languages & Tools
 
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org)
