@@ -14,17 +14,17 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Iwasaki-Y0125/torisetsu_me" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Iwasaki-Y0125/torisetsu_me">
         <img src="./torisetsu_me.png" alt="torisetsu_me" height="200">
       </a>
     </td>
     <td>
-      <a href="https://github.com/Iwasaki-Y0125/weather_log_proto" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Iwasaki-Y0125/weather_log_proto">
         <img src="./weather_log_proto.png" alt="Weather Log Proto" height="200">
       </a>
     </td>
     <td>
-      <a href="https://github.com/Iwasaki-Y0125/tone_two" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/Iwasaki-Y0125/tonetwo">
         <img src="./tone_two.png" alt="ToneTwo" height="200">
       </a>
     </td>
