@@ -11,25 +11,46 @@
 - Battle of RUNTEQ 新人賞 受賞 > [torisetsu_me](https://github.com/Iwasaki-Y0125/torisetsu_me)
 - 応用情報技術者試験 合格
 
+### Featured Projects
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/Iwasaki-Y0125/torisetsu_me">
-        <img src="./torisetsu_me.png" alt="torisetsu_me" height="200">
+        <img src="./torisetsu_me.png" alt="わたしのトリセツ.me" height="200">
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/Iwasaki-Y0125/weather_log_proto">
-        <img src="./weather_log_proto.png" alt="Weather Log Proto" height="200">
+        <img src="./weather_log_proto.png" alt="秋のお天気 ゆらぎログ" height="200">
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/Iwasaki-Y0125/tonetwo">
         <img src="./tone_two.png" alt="ToneTwo" height="200">
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      ~プログラミング1ヶ月目に制作~<br>
+      【わたしのトリセツ.me】<br>
+      自己紹介アプリ
+    </td>
+    <td align="center">
+      ~プログラミング4ヶ月目に制作~<br>
+      【秋のお天気🍁ゆらぎログ】<br>
+      気象とメンタル記録アプリ
+    </td>
+    <td align="center">
+      ~プログラミング9ヶ月目に制作~<br>
+      【ToneTwo】<br>
+      気軽に本音を書ける匿名SNS
+    </td>
+  </tr>
 </table>
+
+
+
 
 
 
