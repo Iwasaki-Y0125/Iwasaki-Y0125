@@ -2,10 +2,7 @@
 はじめまして！ イワサキユカです。
 
 `Ruby on Rails`を中心にWebアプリ開発に学んできました。  
-New! PHPキャッチアップ中　[ワリフル](https://github.com/Iwasaki-Y0125/warifull)
-
-特にフロントエンド実装とUI/UXに関心があり、  
-ユーザーが直感的に使える画面設計や体験づくりを意識して個人開発を進めています。
+New! `PHP` `Laravel`キャッチアップ中　[週次業務を自動割り当てするツール - ワリフル開発中](https://github.com/Iwasaki-Y0125/warifull)
 
 ### 🎖️Achievements & Qualifications
 
